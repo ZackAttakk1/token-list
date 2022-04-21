@@ -24861,6 +24861,17 @@
         "wrapped",
         "wormhole"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "C22BsnQ7jXT44qwJg1JtcfVxdCtkhjJeN8AKptRv9o1w",
+      "symbol": "ZA",
+      "name": "ZAZA",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/ZackAttakk1/crypto/main/za_crypto.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
